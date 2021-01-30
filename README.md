@@ -4,7 +4,7 @@ I have analyze three database from:
 
 1. DB FILE
 2. API
-3 WEB SCRAPING 
+3. WEB SCRAPING 
 
 Libraries:
 
